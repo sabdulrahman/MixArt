@@ -1,7 +1,5 @@
 # MixArt 2.0: Next-Gen Generative Artwork with SDXL & ControlNet
 
-![MixArt 2.0](https://your-image-link-here.com)
-
 ## 🚀 Overview
 MixArt 2.0 is an advanced generative art pipeline leveraging **Stable Diffusion XL (SDXL)** for high-fidelity abstract and photorealistic artwork. By integrating **ControlNet** and **T2I-Adapter**, the pipeline provides precise user-guided generation, allowing artists and designers to maintain structural consistency while enabling creative freedom.
 
