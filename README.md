@@ -63,7 +63,7 @@ To generate an image locally:
 python inference.py --prompt "A surreal dreamscape with floating islands"
 ```
 
-## ⚡ Optimization
+## Optimization
 - **Memory Efficiency**: Enabled attention slicing to fit low-VRAM GPUs.
 - **Fast Processing**: Utilizes FlashAttention for speed improvements.
 - **ONNX Runtime**: Deploy models with optimized execution for better inference performance.
